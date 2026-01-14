@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シンクロシンメトリ",
+  "base_artist": "XP!A",
+  "createdAt": "2026-01-14T01:43:11.106585Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンクロシンメトリ",
+      "artist": "XP!A",
+      "has_synced": false,
+      "path": "select/pl_01_シンクロシンメトリ_XP!A.txt"
+    }
+  ]
+}
